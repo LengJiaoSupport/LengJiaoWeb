@@ -38,9 +38,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/w7.png)
 
-{% hint style="info" %}
 <mark style="color:blue;">**注意：每次重新打开软件后，必须再次选择服务器，否则无法使用**</mark>
-{% endhint %}
 
 ## 路由选择
 
