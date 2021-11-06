@@ -13,7 +13,9 @@
 * 搜索shadowrocket免费下载安装
 * 下载后换回自己的ID
 
-<mark style="color:blue;">**禁止在设置里面登录美区ID，以免资料丢失**</mark>
+{% hint style="danger" %}
+<mark style="color:red;">**禁止在设置里面登录美区ID，以免资料丢失**</mark>
+{% endhint %}
 
 ## 配置App
 

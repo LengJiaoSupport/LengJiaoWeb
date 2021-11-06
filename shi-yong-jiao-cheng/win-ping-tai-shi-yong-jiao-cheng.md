@@ -38,7 +38,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/w7.png)
 
+{% hint style="info" %}
 <mark style="color:blue;">**注意：每次重新打开软件后，必须再次选择服务器，否则无法使用**</mark>
+{% endhint %}
 
 ## 路由选择
 
@@ -46,11 +48,13 @@
 
 ![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/w8.png)
 
+{% hint style="info" %}
 <mark style="color:blue;">**全局：国内外网站走代理**</mark>
 
 <mark style="color:blue;">**绕过大陆：国内网站不走代理，国外网站走代理**</mark>
 
 <mark style="color:blue;">**智能：国内网站不走代理，部分国外网站走代理**</mark>
+{% endhint %}
 
 
 
