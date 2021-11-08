@@ -8,7 +8,7 @@
 
 * 打开app store，**点右上人头，拖到最后，退出(注销)自己ID**，**然后再登录**[**美区ID(点我查看)**](https://www.lengjiao.me/index.php?rp=/knowledgebase/2/ID.html)****
 
-![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i00.png)
+![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i000.png)
 
 * 搜索shadowrocket免费下载安装
 * 下载后换回自己的ID
@@ -21,18 +21,18 @@
 
 1.[『点我登录』](https://www.lengjiao.me/clientarea.php)客户区— 点开『已激活的产品/服务』— 点击『导入shadowrocket』
 
-![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i01.png)
+![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i001.png)
 
-2\. 点导入后，会自动打开APP，选择合适的节点，启动开关，就能愉快的上网啦
+2\. 选择合适的节点，启动开关，就能愉快的上网啦
 
-![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i02.png)
+![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i002.png)
 
 3\. 启用自动更新节点
 
-![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i03.png)
+![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i003.png)
 
 ## 进阶配置(不推荐配置)
 
 如果某些网站或者APP无法解锁，请将全局路由改成代理。不推荐使用，因为浪费您的流量
 
-![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i04.png)
+![](https://cdn.jsdelivr.net/gh/LengJiaoSupport/LengJiaoSupport/2v/DocsPictures/i004.png)
